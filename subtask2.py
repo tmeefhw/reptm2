@@ -24,3 +24,4 @@ def arit_func():
             a = s/n     #mean
         print (n,s,m,a) #output
 arit_func()             #call function 
+# it looks like I learned how to use git today

@@ -17,3 +17,4 @@ def square_func(z):
     print(p)   
     
 square_func(17)
+# it looks like I learned how to use git today
